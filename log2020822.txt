@@ -1,0 +1,8 @@
+Sat Aug 22 22:19:41 CLST 2020 - Conexicreada
+Sat Aug 22 22:19:41 CLST 2020 - Email: stordecilla@micrologica.cl Asunto: prueba 22 Aug 2020 21:19:05:500 Mensaje: prueba 22 Aug 2020 21:19:05:500
+Sat Aug 22 22:19:46 CLST 2020 - com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM [SC1P152CA0154.LAMP152.PROD.OUTLOOK.COM]
+
+Sat Aug 22 22:19:46 CLST 2020 - Correo no enviado, actualizado como no enviado
+Sat Aug 22 22:20:16 CLST 2020 - javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Software caused connection abort: socket write error

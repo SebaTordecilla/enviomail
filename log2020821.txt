@@ -1,0 +1,39 @@
+Fri Aug 21 18:40:10 CLST 2020 - Host: mail.micrologica.cl
+Fri Aug 21 18:40:10 CLST 2020 - Port: 25
+Fri Aug 21 18:40:10 CLST 2020 - User: ingenieria@micrologica.cl
+Fri Aug 21 18:40:37 CLST 2020 - Conexicreada
+Fri Aug 21 18:40:37 CLST 2020 - Email: stordecilla@micrologica.cl Asunto: prueba Mensaje: prueba
+Fri Aug 21 18:40:37 CLST 2020 - Correo enviado
+Fri Aug 21 18:40:37 CLST 2020 - Registro actualizado
+Fri Aug 21 18:41:07 CLST 2020 - Email: equintanilla@tissue.cmpc.cl Asunto: DLD - Vehiculo:LLCL68 JELVES Mensaje: Detencion en lugar desconocido superior a 15 min, https://www.rutacert.cl/Portada2.asp?pat=LLCL68&lat=-33.6908&lon=-71.0311&fch=30-07-2020&hora=20:26:20
+Fri Aug 21 18:41:07 CLST 2020 - Correo enviado
+Fri Aug 21 18:41:07 CLST 2020 - Registro actualizado
+Fri Aug 21 19:10:48 CLST 2020 - Conexicreada
+Fri Aug 21 19:10:48 CLST 2020 - Email: stordecilla@micrologica.cl Asunto: prueba Mensaje: prueba
+Fri Aug 21 19:10:53 CLST 2020 - com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM [SC1P215CA0006.LAMP215.PROD.OUTLOOK.COM]
+
+Fri Aug 21 19:10:53 CLST 2020 - Correo no enviado, actualizado como no enviado
+Fri Aug 21 19:10:53 CLST 2020 - Conexicreada
+Fri Aug 21 19:10:53 CLST 2020 - Email: stordecilla@micrologica.cl Asunto: prueba Mensaje: prueba
+Fri Aug 21 19:10:53 CLST 2020 - javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Software caused connection abort: socket write error
+Fri Aug 21 19:10:53 CLST 2020 - Correo no enviado, actualizado como no enviado
+Fri Aug 21 19:11:24 CLST 2020 - javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Software caused connection abort: socket write error
+Fri Aug 21 19:21:19 CLST 2020 - Host: mail.micrologica.cl
+Fri Aug 21 19:21:19 CLST 2020 - Port: 25
+Fri Aug 21 19:21:19 CLST 2020 - User: ingenieria@micrologica.cl
+Fri Aug 21 19:21:46 CLST 2020 - Conexicreada
+Fri Aug 21 19:21:46 CLST 2020 - Email: stordecilla@micrologica.cl Asunto: prueba Mensaje: prueba
+Fri Aug 21 19:21:46 CLST 2020 - Correo enviado
+Fri Aug 21 19:21:46 CLST 2020 - Registro actualizado
+Fri Aug 21 19:30:12 CLST 2020 - Conexicreada
+Fri Aug 21 19:30:12 CLST 2020 - Email: stordecilla@micrologica.cl Asunto: prueba 21 Aug 2020 18:29:45:010 Mensaje: prueba 21 Aug 2020 18:29:45:010
+Fri Aug 21 19:30:17 CLST 2020 - com.sun.mail.smtp.SMTPSendFailedException: 530 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM [SC1P215CA0008.LAMP215.PROD.OUTLOOK.COM]
+
+Fri Aug 21 19:30:17 CLST 2020 - Correo no enviado, actualizado como no enviado
+Fri Aug 21 19:30:47 CLST 2020 - javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Software caused connection abort: socket write error
